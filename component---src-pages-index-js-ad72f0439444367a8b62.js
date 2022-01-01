@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksimoryu_blog=self.webpackChunksimoryu_blog||[]).push([[678],{7704:function(e,l,u){u.r(l);var n=u(7294);l.default=function(){return n.createElement("div",null,"Hello world!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ad72f0439444367a8b62.js.map

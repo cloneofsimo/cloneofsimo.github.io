@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-ad72f0439444367a8b62.js","mappings":"sIAEA,qBAAe,OAAK","sources":["webpack://simoryu-blog/./src/pages/index.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default () =><div>Hello world!</div>\n"],"names":[],"sourceRoot":""}
